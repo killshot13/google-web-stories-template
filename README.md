@@ -18,7 +18,7 @@ google-web-stories-template
   ├── assets/
   │   └──  images, video, audio for story
   ├── bookend.json
-  ├── pets-completed.html  --- Reference version w/ notes.
+  ├── pets.html  --- Reference version w/ notes.
   └── README.md
 ```
 
