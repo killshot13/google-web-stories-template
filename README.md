@@ -1,6 +1,6 @@
 ## google-web-stories-template
 
-### This template provides a reference for creating and editing AMP Web Stories (Google Stories). 
+### This template provides a reference for creating and editing AMP Web Stories ([Google Stories](https://stories.google)). 
 
 I have included notes at key points throughout the html file to help the user define excactly what AMP dictates must be present in order for a Web Story to qualify to appear in Google searches.
 
