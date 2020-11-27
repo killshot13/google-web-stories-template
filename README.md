@@ -2,7 +2,7 @@
 
 ### This template provides a reference for creating and editing AMP Web Stories ([Google Stories](https://stories.google)). 
 
-I have included notes at key points throughout the html file to help the user define excactly what AMP dictates must be present in order for a Web Story to qualify to appear in Google searches.
+I have included notes at key points throughout the `index.html` file to help the user define excactly what AMP dictates must be present in order for a Web Story to qualify to appear in Google searches.
 
 As of 6 October 2020, all qualifying Web Stories now have the potential to appear in the [Discover section of the Google app](https://blog.google/web-creators/web-stories-discover-search).
 Google has announced official support for the Web Stories format and plans to expand data analysis and advertising integrations accordingly.
