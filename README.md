@@ -27,3 +27,4 @@ Developer docs from [AMP](https://amp.dev/documentation/guides-and-tutorials/?fo
 Credit for these resources goes to [amp.dev](https://amp.dev/documentation/components/amp-story), where anyone who wishes to learn about Web Stories will find [Create Your First Web Story](https://amp.dev/documentation/guides-and-tutorials/start/visual_story/?format=stories), which is an interactive tutorial where you will build a template just like this one.
 
 ### [View Live Version](https://killshot13.github.io/google-web-stories-template)
+_____________________________________________________
