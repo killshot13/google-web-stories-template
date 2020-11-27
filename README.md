@@ -18,7 +18,7 @@ google-web-stories-template
   ├── assets/
   │   └──  images, video, audio for story
   ├── bookend.json
-  ├── index.html  --- Reference version w/ notes.
+  ├── index.html  --- AMP Web Stories code w/ reference notes.
   └── README.md
 ```
 
