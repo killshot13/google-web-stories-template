@@ -1,6 +1,9 @@
 ## google-web-stories-template
 
-## File Structure
+### Description
+This template provides a reference for creating and editing AMP Web Stories ([Google Stories](https://stories.google)). 
+
+### File Structure
 
 ```text
 google-web-stories-template
@@ -11,12 +14,10 @@ google-web-stories-template
   └── README.md
 ```
 
-## License
+### License
 This template is licensed under [Apache License, Version 2.0](https://github.com/ampproject/docs/blob/master/LICENSE).
 
-### This template provides a reference for creating and editing AMP Web Stories ([Google Stories](https://stories.google)). 
-
-#### [View Live Version](https://killshot13.github.io/google-web-stories-template)
+### [View Live Version](https://killshot13.github.io/google-web-stories-template)
 
 I have included notes at key points throughout the `index.html` file to help the user define excactly what AMP dictates must be present in order for a Web Story to qualify to appear in Google searches.
 
